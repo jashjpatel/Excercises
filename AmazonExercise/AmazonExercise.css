@@ -1,0 +1,30 @@
+.Product{
+   font-size: xx-large;
+}
+
+.Price{
+    color: rgb(0, 118, 0);
+
+}
+
+.addToCartButton{
+    background-color : rgb(255, 216, 20);
+    text-align: center;
+    border: 0px solid black;
+    border-radius: 30px;
+    cursor : pointer;
+    padding: 10px 30px;
+    font-size: 16px;
+    margin: 10px 5px;
+}
+
+.buyNowButton{
+    background-color : rgb(255, 164, 28);
+    text-align: center;
+    border: 0px solid black;
+    border-radius: 30px;
+    cursor : pointer;
+    padding: 10px 30px;
+    font-size: 16px;
+    margin: 10px 5px;
+}
