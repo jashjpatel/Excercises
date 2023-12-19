@@ -1,0 +1,40 @@
+
+p{
+    font-family: Verdana;
+}
+
+
+p.courseDescription{
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+    
+
+p.Level{
+    margin-top: 8px;
+    color: rgb(69,69,69);
+    margin-bottom: 4px;
+}
+
+p.skillsLearned{
+    font-size: 16px;
+    margin-top: 25px;
+    width: 300px;
+}
+
+button.getStarted{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid green;
+    font-size: 16px;
+    transition: opactiy 0.25s;
+    margin-top: 20px;
+}
+button.getStarted:hover{
+    opacity: 0.8;
+}
